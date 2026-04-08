@@ -1,0 +1,24 @@
+{
+  "name": "kaiting",
+  "version": "1.0.0",
+  "description": "锐评 Skill 审判庭。上传任意 Skill，我来分析、质询、打分，最后从「夯」到「拉」排名。专治各种花里胡哨、名不副实的垃圾 Skill。",
+  "author": "EDY",
+  "license": "MIT",
+  "keywords": [
+    "开庭",
+    "锐评",
+    "评分",
+    "skill评估",
+    "技能排名",
+    "审判"
+  ],
+  "engines": {
+    "openclaw": ">=1.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "prompts/*.md",
+    "tools/*.py"
+  ]
+}
