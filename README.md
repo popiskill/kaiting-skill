@@ -1,10 +1,17 @@
+<div align="center">
+
 # ⚖️ 开庭
 
-![开庭 Banner](./assets/banner.png)
+**锐评 Skill 审判庭，从「夯」到「拉」排名**
 
-> 锐评 Skill 审判庭，从「夯」到「拉」排名
+上传任意 Skill，我来分析、质询、打分，专治各种花里胡哨、名不副实的垃圾 Skill
 
-**一句话介绍**：上传任意 Skill，我来分析、质询、打分，专治各种花里胡哨、名不副实的垃圾 Skill。
+[![GitHub stars](https://img.shields.io/github/stars/popiskill/kaiting-skill?style=social)](https://github.com/popiskill/kaiting-skill/stargazers)
+[![GitHub license](https://img.shields.io/github/license/popiskill/kaiting-skill)](https://github.com/popiskill/kaiting-skill/blob/main/LICENSE)
+
+<img src="./assets/banner.png" alt="开庭 Banner" width="100%">
+
+</div>
 
 ---
 
@@ -109,6 +116,12 @@ kaiting/
 
 ---
 
+<div align="center">
+
 ## 📄 License
 
 MIT License - 自由使用，欢迎 Fork
+
+**Made with ❤️ by [popiskill](https://github.com/popiskill)**
+
+</div>
