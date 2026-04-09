@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚖️ 开庭
+# ⚖️ 开庭.skill
 
 **锐评 Skill 审判庭，从「夯」到「拉」排名**
 
@@ -32,7 +32,7 @@
 
 ```bash
 # 克隆到 OpenClaw skills 目录
-git clone https://github.com/popiskill/kaiting-skill ~/.qclaw/workspace/skills/kaiting
+git clone https://github.com/popiskill/kaiting-skill ~/.qclaw/workspace/skills/kaiting.skill
 ```
 
 ### 使用
@@ -102,7 +102,7 @@ git clone https://github.com/popiskill/kaiting-skill ~/.qclaw/workspace/skills/k
 ## 📁 文件结构
 
 ```
-kaiting/
+kaiting.skill/
 ├── SKILL.md              # Skill 入口
 ├── prompts/              # 提示词模板
 │   ├── intake.md         # 初始问询
